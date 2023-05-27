@@ -1,13 +1,3 @@
-# pdfLaTeX ignore files
-*.aux
-chatdiamond.log
-*.out
-chatdiamond.pdf
-chatdiamond.synctex.gz
-chatdiamond.toc
-
 # UTNativeEssentials
-ChatDiamondBin
+ImageLoaderBin
 UTNativeLightHouse
-
-build-UTNativeEssentials-Desktop_Qt_6_3_0_GCC_64bit-Debug
